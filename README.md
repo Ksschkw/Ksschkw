@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi there!  
 I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Nigeria 🇳🇬  
 
