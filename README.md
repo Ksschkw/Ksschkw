@@ -1,5 +1,5 @@
 # 👋 Hi there!  
-I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Nigeria 🇳🇬  
+I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth 
 
 ### 🔧 Tech Playground  
 - **Languages:** Python (my love 💻), HTML/CSS, JavaScript (with AI copilot 🤖)  
