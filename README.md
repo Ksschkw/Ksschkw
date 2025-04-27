@@ -13,7 +13,7 @@ I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth
 
 ### 🎮 Off-Duty  
 - Sudoku solver wannabe 🧩
-- <!-- - Baba Is You puzzle masochist 🧠  -->
+- Baba Is You puzzle masochist 🧠
 - anime? 📺  
 
 ### 📬 Reach Me
