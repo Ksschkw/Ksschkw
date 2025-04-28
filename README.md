@@ -8,7 +8,7 @@ I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth
 
 ### 🌱 Growing Through  
 - Public repositories (learning in the open!)  
-- <-- Hackathons (🤞 pending results!) -->
+<-- Hackathons (🤞 pending results!) -->
 - Anime-inspired problem solving (Naruto would approve 🍥)  
 
 ### 🎮 Off-Duty  
