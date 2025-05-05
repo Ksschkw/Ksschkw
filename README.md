@@ -16,6 +16,8 @@ I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth
 - Baba Is You puzzle masochist 🧠
 - anime? 📺  
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ksschkw)
+
 ### 📬 Reach Me
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:kookafor893@gmail.com)
 [![Twitter](https://img.shields.io/badge/Twitter-Connect-blue?style=flat&logo=twitter)](https://twitter.com/_kosisochuk)  
