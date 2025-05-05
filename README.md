@@ -2,7 +2,7 @@
 I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth 
 
 ### 🔧 Tech Playground  
-- **Languages:** Python (my love 💻), HTML/CSS, JavaScript (with AI copilot 🤖)  
+- **Languages:** Python (my love 💻), HTML/CSS, JavaScript, AI Buddies 🤖
 - **Currently Exploring:** Machine Learning fundamentals  
 - **Tools:** GitHub, VS Code, Colab  
 
