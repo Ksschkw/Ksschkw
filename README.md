@@ -1,4 +1,6 @@
+
 # 👋 Hi there!  
+# SOFTWARE ENGINEER
 I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth 
 
 ### 🔧 Tech Playground  
@@ -8,8 +10,8 @@ I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth
 
 ### 🌱 Growing Through  
 - Public repositories (learning in the open!)  
-<!-- Hackathons (🤞 pending results!) -->
-- Anime-inspired problem solving (Naruto would approve 🍥)  
+- Hackathons
+<!-- - Anime-inspired problem solving (Naruto would approve 🍥)  -->
 
 ### 🎮 Off-Duty  
 - Sudoku solver wannabe 🧩
