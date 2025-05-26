@@ -20,7 +20,7 @@ I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth
 
 ## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ksschkw&show_icons=true&theme=radical)
-![Top Langs](![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksschkw&layout=compact&theme=radical&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksschkw&layout=compact&theme=radical&langs_count=10)
 
 ### 📬 Reach Me
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:kookafor893@gmail.com)
