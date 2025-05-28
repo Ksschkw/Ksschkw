@@ -18,7 +18,6 @@ I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth
 - Baba Is You puzzle masochist 🧠
 - anime? 📺  
 
-## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ksschkw&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksschkw&layout=compact&theme=radical&langs_count=10)
 
