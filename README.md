@@ -10,7 +10,6 @@ I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth
 - **Tools:** GitHub, VS Code, Colab, **AWS**
 
 ---
-
 ### 🌱 Growing Through
 - Public repositories (learning in the open!)
 - Hackathons
