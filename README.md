@@ -6,7 +6,7 @@ I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth
 
 ### 🔧 Tech Playground
 - **Languages:** Python (my love 💻), Rust?, HTML/CSS, JavaScript, AI Buddies 🤖
-- **Currently Exploring:** Blockchain development, Reinforcement and Transfer Learning fundamentals(ML stuff)
+- **Currently Exploring:** Cloud engineering, Reinforcement and Transfer Learning fundamentals(ML stuff)
 - **Tools:** GitHub, VS Code, Colab, **AWS**
 
 ---
