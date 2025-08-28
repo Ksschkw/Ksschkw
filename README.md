@@ -38,7 +38,7 @@ I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth
 
 ---
 
-### 🏆 Certifications(Online)
+### 🏆 Badges / Certifications(Online)
 
 [![AWS Partner: Technical Accredited](https://github.com/Ksschkw/Ksschkw/blob/main/aws-partner-technical-accredited%20(1).png)](https://www.credly.com/users/kosisochukwu-okafor.4ba3b5f3)
 View my complete Credly profile [here](https://www.credly.com/users/kosisochukwu-okafor.4ba3b5f3).
