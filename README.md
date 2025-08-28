@@ -17,9 +17,9 @@ I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth
 ---
 
 ### 🎮 Off-Duty
-- Sudoku solver wannabe 🧩
-- Baba Is You puzzle masochist 🧠
-- anime? 📺
+- 🧩
+- 🧠
+- 📺
 
 ---
 
@@ -39,7 +39,7 @@ I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth
 
 ### 🏆 Badges / Certifications(Online)
 
-[![AWS Partner: Technical Accredited](https://github.com/Ksschkw/Ksschkw/blob/main/aws-partner-technical-accredited%20(1).png)](https://www.credly.com/badges/9c49687c-a9e6-4d5b-9c09-67bbd3ca002e/public_url)
+[![AWS Partner: Technical Accredited](https://github.com/Ksschkw/Ksschkw/blob/main/aws-partner-technical-accredited%20(2).png)](https://www.credly.com/badges/9c49687c-a9e6-4d5b-9c09-67bbd3ca002e/public_url)
 [![AWS-Cloud-Quest-Cloud Practitioner](https://github.com/Ksschkw/Ksschkw/blob/main/aws-cloud-quest-cloud-practitioner%20(1).png)](https://www.credly.com/badges/2c36f2d2-983f-434d-a95f-baf1e0413ba2/public_url)
 
 View my complete Credly profile [here](https://www.credly.com/users/kosisochukwu-okafor.4ba3b5f3).
