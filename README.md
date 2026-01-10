@@ -5,15 +5,15 @@ I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth
 ---
 
 ### 🔧 Tech Playground
-- **Languages:** Python (my love 💻), Rust?, HTML/CSS, JavaScript, AI Buddies 🤖
-- **Currently Exploring:** Cloud engineering, Reinforcement and Transfer Learning fundamentals(ML stuff)
-- **Tools:** GitHub, VS Code, Colab, **AWS**
+- **Languages:** Python (my love 💻), HTML/CSS, JavaScript, AI Buddies 🤖
+- **Currently Exploring:** Cloud engineering, Reinforcement Learning
+- **Tools:** GitHub, VS Code, Colab, **AWS** , AZURE
 
 ---
 ### 🌱 Growing Through
 - Public repositories (learning in the open!)
 - Hackathons
-- **Cloud Platforms:** AWS (deepening knowledge and practical application)
+- **Cloud Platforms:** AWS, AZURE
 ---
 
 ### 🎮 Off-Duty
