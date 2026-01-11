@@ -2,26 +2,6 @@
 # SOFTWARE ENGINEER
 I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth
 
----
-
-### 🔧 Tech Playground
-- **Languages:** Python (my love 💻), HTML/CSS, JavaScript, AI Buddies 🤖
-- **Currently Exploring:** Cloud engineering, Reinforcement Learning
-- **Tools:** GitHub, VS Code, Colab, **AWS** , AZURE
-
----
-### 🌱 Growing Through
-- Public repositories (learning in the open!)
-- Hackathons
-- **Cloud Platforms:** AWS, AZURE
----
-
-### 🎮 Off-Duty
-- 🧩
-- 🧠
-- 📺
-
----
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ksschkw&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksschkw&layout=compact&theme=radical&langs_count=14)
