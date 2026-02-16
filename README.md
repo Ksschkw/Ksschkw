@@ -3,9 +3,8 @@
 I'm Kosisochukwu - an AI/ML enthusiast and web tinkerer from Earth
 
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ksschkw&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ksschkw&layout=compact&theme=radical&langs_count=14)
-
+![Stats](https://readme-stats-fast.vercel.app/api?username=Ksschkw&show_icons=true&theme=radical)
+![Langs](https://readme-stats-fast.vercel.app/api/top-langs/?username=Ksschkw&layout=compact&theme=radical&langs_count=14&hide=html,css)
 ---
 
 ### 📬 Reach Me
