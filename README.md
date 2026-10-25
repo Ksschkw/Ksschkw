@@ -26,7 +26,7 @@ Engineer focused on building scalable systems, intelligent pipelines, and produc
 
 ---
 
-## 🌐 Portfolio
+## Portfolio
 
 <p align="center">
   <a href="https://kss-venv.onrender.com">
@@ -36,7 +36,7 @@ Engineer focused on building scalable systems, intelligent pipelines, and produc
 
 ---
 
-## 📬 Connect
+## Connect
 
 <p align="center">
   <a href="mailto:kookafor893@gmail.com">
