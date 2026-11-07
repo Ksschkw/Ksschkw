@@ -21,7 +21,7 @@ Engineer focused on building scalable systems, intelligent pipelines, and produc
 <p align="center">
   <img src="https://readme-stats-fast.vercel.app/api?username=Ksschkw&show_icons=true&theme=transparent" height="170"/>
   <img src="https://readme-stats-fast.vercel.app/api/top-langs/?username=Ksschkw&layout=compact&theme=transparent&langs_count=10&hide=html,css,Cython,PowerShell,Makefile,Fortran,Shell,Mermaid,Dockerfile,Meson,Batchfile,Procfile,Mako" height="170"/>
-  <img src="https://streak-stats.demolab.com/?user=ksshkw" height="170"/>
+  <img src="https://streak-stats.demolab.com/?user=ksschkw" height="170"/>
 </p>
 
 ---
